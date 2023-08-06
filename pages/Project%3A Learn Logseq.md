@@ -29,7 +29,7 @@
 - #+BEGIN_CENTER
   center the text
   #+END_CENTER
-- [[Aug 7th, 2023]]  ![20170506_153902.jpg](../assets/20170506_153902_1691318041487_0.jpg)
+- [[Aug 7th, 2023]] ![田所梓-6.jpg](../assets/田所梓-6_1691326040120_0.jpg)
 - ((64cf6c77-b0dd-49a9-bc3a-5591f677ecc7))
 - #+BEGIN_QUOTE
   React tip: Components designed for a single use should have only required props.
@@ -66,3 +66,4 @@
   \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} = \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} = 4 \pi \rho
   #+END_EXPORT
 	- [Katex](https://katex.org/docs/support_table)
+-
