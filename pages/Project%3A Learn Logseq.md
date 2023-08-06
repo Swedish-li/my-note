@@ -46,3 +46,23 @@
 		- Use **Tab** to indent something
 		- You can easily link and reference individual blocks
 	- [Logseq Templates Makes You More Efficient](https://facedragons.com/foss/logseq-templates/)
+- <img src="https://mermaid.ink/img/IHNlcXVlbmNlRGlhZ3JhbQoJcGFydGljaXBhbnQgZG90Y29tCiAgICBwYXJ0aWNpcGFudCBpZnJhbWUKICAgIHBhcnRpY2lwYW50IHZpZXdzY3JlZW4KICAgIGRvdGNvbS0-PmlmcmFtZTogbG9hZHMgaHRtbCB3LyBpZnJhbWUgdXJsCiAgICBpZnJhbWUtPj52aWV3c2NyZWVuOiByZXF1ZXN0IHRlbXBsYXRlCiAgICB2aWV3c2NyZWVuLT4-aWZyYW1lOiBodG1sICYgamF2YXNjcmlwdAogICAgaWZyYW1lLT4-ZG90Y29tOiBpZnJhbWUgcmVhZHkKICAgIGRvdGNvbS0-PmlmcmFtZTogc2V0IG1lcm1haWQgZGF0YSBvbiBpZnJhbWUKICAgIGlmcmFtZS0-PmlmcmFtZTogcmVuZGVyIG1lcm1haWQK" />
+  {{renderer :mermaid_yxhkchp}}
+	- ```mermaid
+	  sequenceDiagram
+	  	participant dotcom
+	      participant iframe
+	      participant viewscreen
+	      dotcom->>iframe: loads html w/ iframe url
+	      iframe->>viewscreen: request template
+	      viewscreen->>iframe: html & javascript
+	      iframe->>dotcom: iframe ready
+	      dotcom->>iframe: set mermaid data on iframe
+	      iframe->>iframe: render mermaid
+	  ```
+	- [Mermaid.js](https://mermaid.js.org/)
+	- To start, simply trigger it using `/Draw mermaid diagram`. Then add your mermaid syntax in the code block and click `Render`
+- #+BEGIN_EXPORT latex
+  \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} = \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} = 4 \pi \rho
+  #+END_EXPORT
+	- [Katex](https://katex.org/docs/support_table)
