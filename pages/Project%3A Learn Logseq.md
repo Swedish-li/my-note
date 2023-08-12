@@ -29,7 +29,7 @@
 - #+BEGIN_CENTER
   center the text
   #+END_CENTER
-- [[Aug 7th, 2023]] ![田所梓-6.jpg](../assets/田所梓-6_1691326040120_0.jpg)
+- [[Aug 7th, 2023]] ![田所梓-6.jpg](../assets/田所梓-6_1691326040120_0.jpg){:height 1256, :width 702}
 - ((64cf6c77-b0dd-49a9-bc3a-5591f677ecc7))
 - #+BEGIN_QUOTE
   React tip: Components designed for a single use should have only required props.
@@ -46,8 +46,7 @@
 		- Use **Tab** to indent something
 		- You can easily link and reference individual blocks
 	- [Logseq Templates Makes You More Efficient](https://facedragons.com/foss/logseq-templates/)
-- <img src="https://mermaid.ink/img/IHNlcXVlbmNlRGlhZ3JhbQoJcGFydGljaXBhbnQgZG90Y29tCiAgICBwYXJ0aWNpcGFudCBpZnJhbWUKICAgIHBhcnRpY2lwYW50IHZpZXdzY3JlZW4KICAgIGRvdGNvbS0-PmlmcmFtZTogbG9hZHMgaHRtbCB3LyBpZnJhbWUgdXJsCiAgICBpZnJhbWUtPj52aWV3c2NyZWVuOiByZXF1ZXN0IHRlbXBsYXRlCiAgICB2aWV3c2NyZWVuLT4-aWZyYW1lOiBodG1sICYgamF2YXNjcmlwdAogICAgaWZyYW1lLT4-ZG90Y29tOiBpZnJhbWUgcmVhZHkKICAgIGRvdGNvbS0-PmlmcmFtZTogc2V0IG1lcm1haWQgZGF0YSBvbiBpZnJhbWUKICAgIGlmcmFtZS0-PmlmcmFtZTogcmVuZGVyIG1lcm1haWQK" />
-  {{renderer :mermaid_yxhkchp}}
+- [logseq-fenced-code-plus](https://github.com/xyhp915/logseq-fenced-code-plus)
 	- ```mermaid
 	  sequenceDiagram
 	  	participant dotcom
@@ -66,4 +65,3 @@
   \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} = \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} = 4 \pi \rho
   #+END_EXPORT
 	- [Katex](https://katex.org/docs/support_table)
--
