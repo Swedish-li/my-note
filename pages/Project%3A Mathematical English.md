@@ -46,7 +46,17 @@
 	  #+END_EXPORT
 	- minus three and five thirty-fourths $$ 3\frac 5 {34} $$
 	- ## Real Numbers
+		- Rational Numbers
+			- Non-Integer Rational Numbers
+			- Integers
+				- Negative Numbers
+				- Natural Numbers
+			- Fraction
+		- Irrational Numbers
+			- [Algebraic irrational](https://en.wikipedia.org/wiki/Algebraic_number)
+			- [Transcendental](https://en.wikipedia.org/wiki/Transcendental_number)
 	- ## Complex Numbers
-		-
+		- **Complex numbers** are the numbers that are expressed in the form of **a+ib** where, a,b are real numbers and  ‘i’ is an imaginary number called “***iota”***. The value of i = (√-1). For example, 2+3i is a complex number, where 2 is a [real number](https://byjus.com/maths/real-numbers/) (Re) and 3i is an imaginary number (Im).
 	-
+- # Algebra
 -

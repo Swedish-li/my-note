@@ -127,3 +127,20 @@ file-path:: ../assets/Mathematical_English_1691934921591_0.pdf
   hl-page:: 4
   hl-color:: red
   id:: 64d9b9f1-8a8b-4706-b32c-0489b328de17
+- [Congruences](https://t5k.org/glossary/page.php?sort=Congruence)
+  hl-page:: 9
+  ls-type:: annotation
+  id:: 64da0db3-f2cd-4ca8-9868-433ab7190985
+  hl-color:: red
+	- 设*m*为自然数,若整数*a*与*b*之差*a-b*为*m*的倍数,则称*a*与*b*对模*m*同余
+	- $$ a \equiv b \quad (mod m) $$ a is congruent to b modulo m
+- Fermat’s Little Theorem
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 64da1433-c38b-43cf-a20f-ff19a9ac0617
+- Chinese Remainder Theorem
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 64da14be-78dc-40f3-a266-556705bb375e
